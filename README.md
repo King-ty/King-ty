@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 - 变强
 
 #### 如何联系我
-- Emai：king-ty@foxmail.com
+- Email：king-ty@foxmail.com
 - 不回消息可以来图书馆二楼找找
