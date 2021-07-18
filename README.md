@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 #### 我在干什么
 - 学习
-- 变强
+- 努力变强
 
 #### 如何联系我
 - Email：king-ty@foxmail.com
