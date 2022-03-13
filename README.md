@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 #### 如何联系我
 - Email：king-ty@foxmail.com
 
+#### 其他
 <!-- ## Stats  -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 
