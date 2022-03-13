@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### 我是谁
-- 同济大学大三计算机专业学生
-- 啥也不会的菜鸡
+- 同济大学计算机专业19级菜鸡
 
 #### 我在干什么
 - 学习
@@ -26,10 +25,12 @@ Here are some ideas to get you started:
 #### 如何联系我
 - Email：king-ty@foxmail.com
 
-<div align=center>
-  
-  [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=King-ty&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/King-ty/)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-ty)](https://github.com/King-ty/github-readme-stats)  
-  ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)  
-  
-</div>
+<!-- ## Stats  -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+
+<!-- Most used language -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  
+
+<!-- Page View -->
+![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)  
+
