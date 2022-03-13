@@ -21,8 +21,15 @@ Here are some ideas to get you started:
 
 #### 我在干什么
 - 学习
-- 努力变强
+- 摸鱼
 
 #### 如何联系我
 - Email：king-ty@foxmail.com
-- 不回消息可以来图书馆二楼找找
+
+<div align=center>
+  
+  [![Github Stats By Jasonkay](https://github-readme-stats.vercel.app/api?username=ted-0711&show_icons=true&title_color=0366d6&icon_color=ffc83d&text_color=24292e&bg_color=fff)](https://github.com/Ted-0711/)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SleepinWei)](https://github.com/Ted-0711/github-readme-stats)
+  ![Page View](https://visitor-badge.glitch.me/badge?page_id=Ted-0711.Ted-0711)
+  
+</div>
