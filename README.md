@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=2E95F7&vCenter=true&lines=Have+a+nice+day!)](https://git.io/typing-svg)
+
 I am Yu Tian, a junior at Tongji University, majoring in Computer Science.
 - 🔭 I’m currently working on something about LibOS.
 - 🌱 I’m currently learning Rust Language, LibOS, Software Analysis.
@@ -8,6 +10,9 @@ I am Yu Tian, a junior at Tongji University, majoring in Computer Science.
 - 💬 Ask me about what you want to know.
 
 <div align="center">
+  
+  [![](https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue)](https://king-ty.top/)
+  ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)
   
   [![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
   [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
@@ -23,16 +28,15 @@ I am Yu Tian, a junior at Tongji University, majoring in Computer Science.
   [![](https://img.shields.io/badge/-Electron-6DB33F?style=flat-square&logo=electron&logoColor=ffffff)](https://www.electronjs.org/)
   [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
   
-  <!-- ## Stats  -->
-  [![King-ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  
-
-  <!-- Most used language -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)
+  [![King-ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  <!-- Stats  -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  <!-- Most used language -->
+  
+  <!-- GitHub奖杯🏆 -->
+  <img  src="https://github-profile-trophy.vercel.app/?username=King-ty&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" />
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
   
   [![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-ty&theme=github)](https://github.com/King-ty)
-
-  <!-- Page View -->
-  ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)  
   
 </div>
 
