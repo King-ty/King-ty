@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-PyTorch-269539?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-Markdown-2496ED?style=flat-square&logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
 <div align="center">
+  
   <!-- ## Stats  -->
   [![King-ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  
 
@@ -53,4 +54,5 @@ Here are some ideas to get you started:
 
   <!-- Page View -->
   ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)  
+  
 </div>
