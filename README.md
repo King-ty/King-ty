@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 #### 其他
 <!-- ## Stats  -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty&theme=vue&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![King-ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  
 
 <!-- Most used language -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-ty)](https://github.com/anuraghazra/github-readme-stats)  
@@ -35,3 +35,7 @@ Here are some ideas to get you started:
 <!-- Page View -->
 ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)  
 
+<!-- Visiter Bridge -->
+![](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)
+
+[![Sunshine's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=King-ty&theme=xcode)](https://github.com/King-ty)
