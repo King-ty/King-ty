@@ -32,7 +32,7 @@ I am Yu Tian, a senior student at Tongji University, majoring in Computer Scienc
   [![King-ty's GitHub stats](https://github-readme-stats.vercel.app/api?username=King-ty&show_icons=true&hide_title=true&line_height=20)](https://github.com/anuraghazra/github-readme-stats)  <!-- Stats  -->
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=King-ty&&hide=Verilog,SCSS&layout=compact&hide_title=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)  <!-- Most used language -->
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=King-ty)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=King-ty)](https://git.io/streak-stats) -->
   
   <!-- GitHub奖杯🏆 -->
 <!--   <img  src="https://github-profile-trophy.vercel.app/?username=King-ty&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /> -->
