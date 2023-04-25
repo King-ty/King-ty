@@ -5,7 +5,7 @@
 I am Yu Tian, a senior student at Tongji University, majoring in Computer Science.
 - 🔭 I’m currently working on the design of a secure and efficient computing service based on TEE.
 - 🌱 I’m currently learning TEE, Intel SGX, MicroService, OS security, etc.
-- 📫 How to reach me: king-ty@foxmail.com
+- 📫 How to reach me: king.yu.tian@outlook.com
 - 😄 Pronouns: 刃心
 - 💬 Ask me about what you want to know.
 
