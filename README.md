@@ -2,17 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=2E95F7&vCenter=true&lines=Have+a+nice+day!)](https://git.io/typing-svg)
 
-I am Yu Tian, a senior student at Tongji University, majoring in Computer Science.
-- 🔭 I’m currently working on the design of a secure and efficient computing service based on TEE.
-- 🌱 I’m currently learning TEE, Intel SGX, MicroService, OS security, etc.
-- 📫 How to reach me: king.yu.tian@outlook.com
-- 😄 Pronouns: 刃心
-- 💬 Ask me about what you want to know.
+I’m **Yu TIAN**, a **second-year MPhil student** in the Department of Computer Science at **The University of Hong Kong**. My research interests lie in the field of **computer systems**.
+
+Most of my work has revolved around designing efficient and secure systems, with a particular focus on **LLM inference systems** and **microservices**. Beyond these primary areas, I’ve also delved into topics such as **trusted execution environments (TEE)**, **homomorphic encryption (HE)**, and **OLAP systems**. These experiences have equipped me with a strong foundation in designing and optimizing complicated systems.
+
+Currently, I’m actively seeking opportunities to **pursue a PhD** in a related field. If you have an opportunity or would like to connect, feel free to reach out!
+
+- 🔭 **Current Focus:** Exploring PhD opportunities.
+- 🌱 **Learning:** LLM systems.
+- 📫 **Reach Me At:** tyrace.tian@outlook.com
+- 😄 **Pronouns:** 刃心 (rèn xīn)
+- 💬 **Let’s Connect:** Feel free to ask me anything you’d like to know.
 
 <div align="center">
   
-  [![](https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue)](https://www.king-ty.top/)
-  ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty)
+<!--   [![](https://img.shields.io/badge/website-%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99-blue)](https://www.king-ty.top/) -->
+<!--   ![Page View](https://visitor-badge.glitch.me/badge?page_id=King-ty.King-ty) -->
 <!--   ![](https://komarev.com/ghpvc/?username=King-ty) -->
   
 <!--   [![](https://img.shields.io/badge/-C++-269539?style=flat-square&logo=c%2B%2B&logoColor=ffffff)](https://www.cplusplus.com/)
