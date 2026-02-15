@@ -6,7 +6,7 @@ I am **Yu TIAN**, a final-year M.Phil. candidate in the Department of Computer S
 
 I specialize in building high-performance infrastructure for Large Language Models. I’ve also delved into topics such as microservice, OLAP systems, trusted execution environments (TEE), and homomorphic encryption (HE). These experiences have equipped me with a strong foundation in designing and optimizing complicated systems.
 
-**I am currently open to new job opportunities or PhD opportunities — feel free to reach out!**
+**I am actively looking for job opportunities / PhD positions — feel free to reach out!**
 
 - 🔭 **Current Focus:** AI Infra & ML Sys.
 - 📫 **Reach Me At:** tyrace.tian@outlook.com
